@@ -5,6 +5,7 @@ Google form without database
 <html>
 <head>
 <h1> Form </h1>
+  <h2> </h2>
 <form>
 <fieldset>
 <legend> Personal Information : </legend>
